@@ -13109,11 +13109,11 @@ __metadata:
   linkType: hard
 
 "@spotify/prettier-config@npm:^14.0.0":
-  version: 14.0.1
-  resolution: "@spotify/prettier-config@npm:14.0.1"
+  version: 14.1.4
+  resolution: "@spotify/prettier-config@npm:14.1.4"
   peerDependencies:
     prettier: 2.x
-  checksum: 07fb33ff3bb4678ab3bfe2f6f5da2cfb366de427c544e94178f5f8c75b3708282f7ea1a4344404e4ad1bbc5b38fccfde10795528cdfe7f61a8afed62076f8fe9
+  checksum: ffa290afe164ef4b1f1d921a803618eb163bdf0dd17dbb22d1e9c19862facb0600b732ce3a6fd0b1d123077a1079289f411e71e51c0f744f96ccda489784763b
   languageName: node
   linkType: hard
 
